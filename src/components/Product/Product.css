@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid gray;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+.product .product-data{
+    padding: 0px 10px;
+}
+.product .product-data h4{
+    color: blue;
+    font-weight: 400;
+}
+.product .product-data button{
+    background: #f0c14b;
+    border: 1px solid gray;
+    padding: 5px 70px;
+    border-radius: 3px;
+}
